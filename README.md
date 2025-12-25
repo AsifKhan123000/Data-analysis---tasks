@@ -1,4 +1,5 @@
 # Data-analysis---tasks
+# Task 1: Visualization the dataset
 1: Import libraries 
 2: Load dataset
 3: Scatter plot to show relationship b/w variables
